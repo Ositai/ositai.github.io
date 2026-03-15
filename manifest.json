@@ -2,7 +2,7 @@
   "name": "林家庫存管理系統",
   "short_name": "LinBox",
   "description": "基於 GAS 的庫存管理系統",
-  "start_url": "/index.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4f46e5",
